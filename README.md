@@ -1,9 +1,11 @@
-# Lyssna Website Clone
+# Lyssna Clone
 
-Built Lyssna website clone in order to learn various properties of HTML and CSS.
+Designed Lyssna website clone in order to learn CSS by doing.
 
+## Tech Stack
+
+**Client:** HTML, CSS
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
